@@ -7,7 +7,7 @@
 
 1. Clone the git repo :
    ```bash
-   git clone https://github.com/AryanGarg13/Diffusion
+   git clone https://github.com/AryanGarg13/Diffusion.git
    cd Stable-Diffusion-Core
 
 2. Create the conda environment (tennis in this case) using the provided `env.yml` file and activate it:
